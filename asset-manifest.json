@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/person-hierarchy/static/css/main.201ab0f7.css",
+    "main.js": "/person-hierarchy/static/js/main.56182cac.js",
+    "static/js/373.5a35c9b2.chunk.js": "/person-hierarchy/static/js/373.5a35c9b2.chunk.js",
+    "index.html": "/person-hierarchy/index.html",
+    "main.201ab0f7.css.map": "/person-hierarchy/static/css/main.201ab0f7.css.map",
+    "main.56182cac.js.map": "/person-hierarchy/static/js/main.56182cac.js.map",
+    "373.5a35c9b2.chunk.js.map": "/person-hierarchy/static/js/373.5a35c9b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.201ab0f7.css",
+    "static/js/main.56182cac.js"
+  ]
+}
